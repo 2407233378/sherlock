@@ -1,3 +1,5 @@
+English | [简体中文](README.zh-CN.md)
+
 <p align="center">
   <br>
   <a href="https://sherlockproject.xyz/" target="_blank"><img src="images/sherlock-logo.png" alt="sherlock"/></a>
